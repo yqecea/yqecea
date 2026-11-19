@@ -35,9 +35,9 @@ def hero(theme):
 TILES = [
  ('oykaspi', 'OyKaspi', 'Pricing for Kaspi sellers: one tenge under the competitor, never below the margin floor.', 'TypeScript · 113 tests · 11 gates'),
  ('oyvoice', 'OyVoice', 'Dictation that proves what it inserted: verified, unverified or rejected. Say it, then see it land.', 'Rust · TypeScript · private beta'),
- ('oynote', 'OyNote', 'The student layer of an AI study app: 10 Flutter screens, design tokens, 47 languages.', 'Flutter · Firebase · 51 widget tests'),
+ ('mispro', 'MIS Pro', 'Government project in Tajikistan: full product design, from flows and screens to handoff.', 'Design end to end · client'),
  ('tastecode', 'TasteCode', 'Open source: 12 commits merged upstream, plus the Linux line that ships .deb and .AppImage.', 'TypeScript · Electron · Linux'),
- ('oysana', 'Oysana', 'A small studio building AI products for students and sellers. Frontend, design and delivery.', 'Studio · oysana-web.vercel.app'),
+ ('oysana', 'Oysana', 'An AI product studio: interfaces, design systems and delivery for the products below.', 'Studio · oysana-web.vercel.app'),
  ('webgl', 'Portfolio', 'WebGL and Three.js: shaders, scroll choreography, live at yqecea-portfolio.web.app.', 'Three.js · live'),
 ]
 
