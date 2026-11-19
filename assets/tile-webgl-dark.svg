@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="132" viewBox="0 0 380 132" role="img" aria-label="Portfolio: WebGL and Three.js: shaders, scroll choreography, live at yqecea-portfolio.web.app.">
+<rect x="0.5" y="0.5" width="379" height="131" rx="12" fill="#0d0d0d" stroke="#272727"/>
+<circle cx="26" cy="30" r="4" fill="#f4f4f4"/>
+<text x="40" y="35" font-family="'Inter','SF Pro Text',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#f4f4f4">Portfolio</text>
+<text x="24" y="78" font-family="'Inter','SF Pro Text',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#a8a8a8">WebGL and Three.js: shaders, scroll choreography,</text><text x="24" y="95" font-family="'Inter','SF Pro Text',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#a8a8a8">live at yqecea-portfolio.web.app.</text>
+<text x="24" y="118" font-family="'Inter','SF Pro Text',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#a8a8a8">Three.js · live</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="132" viewBox="0 0 380 132" role="img" aria-label="OyVoice: Dictation that proves what it inserted: verified, unverified or rejected. Say it, then see it land.">
+<rect x="0.5" y="0.5" width="379" height="131" rx="12" fill="#ffffff" stroke="#e3e3e3"/>
+<circle cx="26" cy="30" r="4" fill="#111111"/>
+<text x="40" y="35" font-family="'Inter','SF Pro Text',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#111111">OyVoice</text>
+<text x="24" y="78" font-family="'Inter','SF Pro Text',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#5f6b76">Dictation that proves what it inserted: verified,</text><text x="24" y="95" font-family="'Inter','SF Pro Text',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#5f6b76">unverified or rejected. Say it, then see it land.</text>
+<text x="24" y="118" font-family="'Inter','SF Pro Text',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#5f6b76">Rust · TypeScript · private beta</text>
+</svg>
