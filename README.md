@@ -8,11 +8,11 @@
 
 I build interfaces and then prove they work. Most of my code is written with coding agents, and most of my time goes into the part they cannot do: deciding what the screen should do, and writing the check that tells us whether it does.
 
-<p align="center"><a href="https://github.com/Leonxlnx/tastecode"><img src="assets/tile-tastecode.png" width="380" alt="TasteCode: 12 commits merged upstream plus the Linux packaging line."></a><a href="https://oysana-web.vercel.app"><img src="assets/tile-oysana.png" width="380" alt="Oysana: an AI product studio."></a></p>
+<p align="center"><a href="https://github.com/Leonxlnx/tastecode"><img src="assets/tile-tastecode.png" width="47%" alt="TasteCode: 12 commits merged upstream plus the Linux packaging line."></a><a href="https://oysana-web.vercel.app"><img src="assets/tile-oysana.png" width="47%" alt="Oysana: an AI product studio."></a></p>
 
-<p align="center"><a href="https://yqecea-portfolio.web.app"><img src="assets/tile-webgl.png" width="380" alt="Portfolio: WebGL and Three.js."></a><img src="assets/tile-oykaspi.png" width="380" alt="OyKaspi: pricing that never crosses the margin floor."></p>
+<p align="center"><a href="https://yqecea-portfolio.web.app"><img src="assets/tile-webgl.png" width="47%" alt="Portfolio: WebGL and Three.js."></a><img src="assets/tile-oykaspi.png" width="47%" alt="OyKaspi: pricing that never crosses the margin floor."></p>
 
-<p align="center"><img src="assets/tile-oyvoice.png" width="380" alt="OyVoice: dictation that proves what it inserted."><img src="assets/tile-mispro.png" width="380" alt="MIS Pro: a government project in Tajikistan, designed end to end."></p>
+<p align="center"><img src="assets/tile-oyvoice.png" width="47%" alt="OyVoice: dictation that proves what it inserted."><img src="assets/tile-mispro.png" width="47%" alt="MIS Pro: a government project in Tajikistan, designed end to end."></p>
 
 ## How I work
 
