@@ -12,6 +12,8 @@ I build interfaces and then prove they work. Most of my code is written with cod
 
 <p align="center"><a href="https://yqecea-portfolio.web.app"><img src="assets/tile-webgl.png" width="380" alt="Portfolio: WebGL and Three.js."></a><img src="assets/tile-oykaspi.png" width="380" alt="OyKaspi: pricing that never crosses the margin floor."></p>
 
+<p align="center"><img src="assets/tile-oyvoice.png" width="380" alt="OyVoice: dictation that proves what it inserted."><img src="assets/tile-mispro.png" width="380" alt="MIS Pro: a government project in Tajikistan, designed end to end."></p>
+
 ## How I work
 
 A screen is done when three things agree: the design intent, the test, and what a real person sees. I keep the acceptance rule explicit, because the agent will happily tell you it succeeded.
