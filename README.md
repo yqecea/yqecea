@@ -1,7 +1,4 @@
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Yusuf Kabiden, frontend engineer and product designer in Astana. 113 tests for OyKaspi, 12 commits in TasteCode, 4 products shipped.">
-</picture></p>
+<p align="center"><img src="assets/hero-dark.webp" width="100%" alt="Yusuf Kabiden, frontend engineer and product designer in Astana. Initials YK rendered as a drifting field of dots. 113 tests behind OyKaspi, 150 commits in TasteCode, 4 products shipped."></p>
 
 <p align="center">
   <a href="https://yqecea-portfolio.web.app">portfolio</a> &nbsp;·&nbsp;
@@ -11,11 +8,9 @@
 
 I build interfaces and then prove they work. Most of my code is written with coding agents, and most of my time goes into the part they cannot do: deciding what the screen should do, and writing the check that tells us whether it does.
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-oykaspi-dark.svg"><img src="assets/tile-oykaspi-light.svg" width="380" alt="OyKaspi: pricing for Kaspi sellers, one tenge under the competitor without crossing the margin floor."></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-oyvoice-dark.svg"><img src="assets/tile-oyvoice-light.svg" width="380" alt="OyVoice: dictation that proves what it inserted, verified, unverified or rejected."></picture></p>
+<p align="center"><a href="https://github.com/Leonxlnx/tastecode"><img src="assets/tile-tastecode.png" width="380" alt="TasteCode: 12 commits merged upstream plus the Linux packaging line."></a><a href="https://oysana-web.vercel.app"><img src="assets/tile-oysana.png" width="380" alt="Oysana: an AI product studio."></a></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-mispro-dark.svg"><img src="assets/tile-mispro-light.svg" width="380" alt="MIS Pro: a government project in Tajikistan, designed end to end."></picture><a href="https://github.com/Leonxlnx/tastecode"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-tastecode-dark.svg"><img src="assets/tile-tastecode-light.svg" width="380" alt="TasteCode: 12 commits merged upstream plus the Linux build with deb and AppImage."></picture></a></p>
-
-<p align="center"><a href="https://oysana-web.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-oysana-dark.svg"><img src="assets/tile-oysana-light.svg" width="380" alt="Oysana: a small studio building AI products for students and sellers."></picture></a><a href="https://yqecea-portfolio.web.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-webgl-dark.svg"><img src="assets/tile-webgl-light.svg" width="380" alt="Portfolio: WebGL and Three.js, shaders and scroll choreography."></picture></a></p>
+<p align="center"><a href="https://yqecea-portfolio.web.app"><img src="assets/tile-webgl.png" width="380" alt="Portfolio: WebGL and Three.js."></a><img src="assets/tile-oykaspi.png" width="380" alt="OyKaspi: pricing that never crosses the margin floor."></p>
 
 ## How I work
 
