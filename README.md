@@ -16,6 +16,7 @@ AI & Design Engineer in Astana. I run autonomous multi-agent setups and ship pro
 - [`gem-swarm`](https://github.com/yqecea/gem-swarm): multi-agent orchestration extension for Gemini CLI. 20 specialist agents, native parallel dispatch.
 - [`vertex-design-system`](https://github.com/yqecea/vertex-design-system): industrial design system on Geist tokens. 69 components, zero-dependency CSS build.
 - [`repo-10x`](https://github.com/yqecea/repo-10x): planning-first agent skill for deep repository transformation.
+- [`skill-doctor`](https://github.com/yqecea/skill-doctor): zero-dependency linter for agent skill directories across .claude, .agents, .pi, .codex, .gemini, and .opencode layouts.
 
 <p align="center"><a href="https://github.com/Leonxlnx/tastecode"><img src="assets/tile-tastecode.png" width="47%" alt="TasteCode: 12 commits merged upstream."></a><a href="https://yqecea-portfolio.web.app"><img src="assets/tile-webgl.png" width="47%" alt="Portfolio: WebGL and Three.js."></a></p>
 
