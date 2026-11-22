@@ -93,7 +93,7 @@ def render_frame(t, stars, theme='dark'):
     f_num = ImageFont.truetype(FONT_SEMI, 22)
     f_lab = ImageFont.truetype(FONT_TXT, 9)
     x = TEXT_X
-    for num, lab in (('113', 'TESTS FOR OYKASPI'), ('12', 'COMMITS IN TASTECODE'), ('4', 'PRODUCTS SHIPPED')):
+    for num, lab in (('12', 'COMMITS MERGED UPSTREAM'), ('20', 'AGENTS IN GEM-SWARM'), ('69', 'DESIGN COMPONENTS')):
         d.text((x, 236), num, font=f_num, fill=fg)
         d.text((x, 264), lab, font=f_lab, fill=muted)
         x += 148

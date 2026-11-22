@@ -3,7 +3,7 @@
 import pathlib
 from xml.sax.saxutils import escape
 
-OUT = pathlib.Path('/home/yqecea/.hermes/profiles/yqecea/work/github-profile/assets')
+OUT = pathlib.Path('assets')
 OUT.mkdir(parents=True, exist_ok=True)
 
 THEMES = {
@@ -14,7 +14,7 @@ FONT = "'Inter','SF Pro Text',-apple-system,'Segoe UI',Helvetica,Arial,sans-seri
 
 def hero(theme):
     t = THEMES[theme]
-    stats = [('113', 'TESTS FOR OYKASPI'), ('12', 'COMMITS IN TASTECODE'), ('4', 'PRODUCTS SHIPPED')]
+    stats = [('12', 'COMMITS MERGED UPSTREAM'), ('20', 'AGENTS IN GEM-SWARM'), ('69', 'DESIGN COMPONENTS')]
     parts = []
     col_w, gap = 150, 34
     total = col_w * 3 + gap * 2
@@ -23,21 +23,17 @@ def hero(theme):
         x = x0 + i * (col_w + gap)
         parts.append(f'<text x="{x}" y="152" font-family="{FONT}" font-size="31" font-weight="600" fill="{t["text"]}" style="font-variant-numeric:tabular-nums">{v}</text>')
         parts.append(f'<text x="{x}" y="174" font-family="{FONT}" font-size="9.5" letter-spacing="1.1" fill="{t["muted"]}">{escape(label)}</text>')
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="272" viewBox="0 0 1200 272" role="img" aria-label="Yusuf Kabiden, frontend engineer and product designer in Astana. 113 tests for OyKaspi, 12 commits in TasteCode, 4 products shipped.">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="272" viewBox="0 0 1200 272" role="img" aria-label="Yusuf Kabiden, AI and design engineer in Astana.">
 <rect width="1200" height="272" rx="14" fill="{t['bg']}" stroke="{t['border']}"/>
 <text x="48" y="104" font-family="{FONT}" font-size="44" font-weight="600" letter-spacing="-1" fill="{t['text']}">Yusuf Kabiden</text>
-<text x="48" y="140" font-family="{FONT}" font-size="16.5" fill="{t['muted']}">Frontend engineer and product designer. I ship interfaces and prove them.</text>
+<text x="48" y="140" font-family="{FONT}" font-size="16.5" fill="{t['muted']}">AI &amp; Design Engineer. Multi-agent setups and product UI.</text>
 <text x="48" y="190" font-family="{FONT}" font-size="13" fill="{t['muted']}">Astana, Kazakhstan · UTC+5 · TypeScript, Flutter, design systems</text>
 <line x1="48" y1="216" x2="1152" y2="216" stroke="{t['border']}"/>
 {''.join(parts)}
 </svg>'''
 
 TILES = [
- ('oykaspi', 'OyKaspi', 'Pricing for Kaspi sellers: one tenge under the competitor, never below the margin floor.', 'TypeScript · 113 tests · 11 gates'),
- ('oyvoice', 'OyVoice', 'Dictation that proves what it inserted: verified, unverified or rejected. Say it, then see it land.', 'Rust · TypeScript · private beta'),
- ('mispro', 'MIS Pro', 'Government project in Tajikistan: full product design, from flows and screens to handoff.', 'Design end to end · client'),
  ('tastecode', 'TasteCode', 'Open source: 12 commits merged upstream, plus the Linux line that ships .deb and .AppImage.', 'TypeScript · Electron · Linux'),
- ('oysana', 'Oysana', 'An AI product studio: interfaces, design systems and delivery for the products below.', 'Studio · oysana-web.vercel.app'),
  ('webgl', 'Portfolio', 'WebGL and Three.js: shaders, scroll choreography, live at yqecea-portfolio.web.app.', 'Three.js · live'),
 ]
 

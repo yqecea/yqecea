@@ -87,7 +87,7 @@ def frame(t, theme='dark'):
     d.text((48, 164), 'I ship interfaces and prove them.', font=ImageFont.truetype(F_TXT, 16), fill=muted)
     d.text((48, 198), 'Astana, Kazakhstan · UTC+5', font=ImageFont.truetype(F_TXT, 13), fill=muted)
     x = 48
-    for num, lab in (('113', 'TESTS FOR OYKASPI'), ('12', 'COMMITS IN TASTECODE'), ('4', 'PRODUCTS SHIPPED')):
+    for num, lab in (('12', 'COMMITS MERGED UPSTREAM'), ('20', 'AGENTS IN GEM-SWARM'), ('69', 'DESIGN COMPONENTS')):
         d.text((x, 232), num, font=ImageFont.truetype(F_SEMI, 22), fill=fg)
         d.text((x, 260), lab, font=ImageFont.truetype(F_TXT, 9), fill=muted)
         x += 146

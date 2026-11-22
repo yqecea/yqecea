@@ -64,11 +64,11 @@ def frame(t):
     d = ImageDraw.Draw(img)
     fg, muted = (240, 240, 242), (152, 155, 162)
     d.text((48, 76), 'Yusuf Kabiden', font=ImageFont.truetype(F_SEMI, 44), fill=fg)
-    d.text((48, 142), 'Frontend engineer and product designer.', font=ImageFont.truetype(F_TXT, 16), fill=muted)
-    d.text((48, 164), 'I ship interfaces and prove them.', font=ImageFont.truetype(F_TXT, 16), fill=muted)
+    d.text((48, 142), 'AI & Design Engineer.', font=ImageFont.truetype(F_TXT, 16), fill=muted)
+    d.text((48, 164), 'Multi-agent setups and product UI.', font=ImageFont.truetype(F_TXT, 16), fill=muted)
     d.text((48, 198), 'Astana, Kazakhstan · UTC+5', font=ImageFont.truetype(F_TXT, 13), fill=muted)
     x = 48
-    for num, lab in (('113', 'TESTS BEHIND OYKASPI'), ('150', 'COMMITS IN TASTECODE'), ('4', 'PRODUCTS SHIPPED')):
+    for num, lab in (('12', 'COMMITS MERGED UPSTREAM'), ('20', 'AGENTS IN GEM-SWARM'), ('69', 'DESIGN COMPONENTS')):
         d.text((x, 232), num, font=ImageFont.truetype(F_SEMI, 22), fill=fg)
         d.text((x, 260), lab, font=ImageFont.truetype(F_TXT, 9), fill=muted)
         x += 146
@@ -76,5 +76,5 @@ def frame(t):
 
 
 if __name__ == '__main__':
-    frame(0.0).save('/tmp/hero_v4.png')
+    frame(0.0).save('assets/hero-dark.webp')
     print('ok')
