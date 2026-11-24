@@ -2,7 +2,7 @@
 
 # Yusuf Kabiden
 
-AI & Design Engineer in Astana. I run autonomous multi-agent setups and ship product UI.
+16 y.o. AI & Design Engineer in Astana. I run autonomous multi-agent setups and ship product UI.
 
 ## What I work on
 
@@ -12,12 +12,14 @@ AI & Design Engineer in Astana. I run autonomous multi-agent setups and ship pro
 
 ## Public work
 
-- [`Leonxlnx/tastecode`](https://github.com/Leonxlnx/tastecode): 12 commits merged into upstream main, including PR #1211, #1171, and a UI error-visibility fix.
+- [`Leonxlnx/tastecode`](https://github.com/Leonxlnx/tastecode): 12 commits merged into upstream main, including PR [#1211](https://github.com/Leonxlnx/tastecode/pull/1211), [#1171](https://github.com/Leonxlnx/tastecode/pull/1171), and a UI error-visibility fix.
+- [`mastra-ai/mastra`](https://github.com/mastra-ai/mastra): merged upstream bugfix [PR #31167](https://github.com/mastra-ai/mastra/pull/31167) in the evals scorer (whitespace-aware Dice similarity) with a 45,311-character regression test.
 - [`gem-swarm`](https://github.com/yqecea/gem-swarm): multi-agent orchestration extension for Gemini CLI. 20 specialist agents, native parallel dispatch.
 - [`vertex-design-system`](https://github.com/yqecea/vertex-design-system): industrial design system on Geist tokens. 69 components, zero-dependency CSS build.
 - [`repo-10x`](https://github.com/yqecea/repo-10x): planning-first agent skill for deep repository transformation.
 - [`skill-doctor`](https://github.com/yqecea/skill-doctor): zero-dependency linter for agent skill directories across .claude, .agents, .pi, .codex, .gemini, and .opencode layouts.
+- [`sessionlens`](https://github.com/yqecea/sessionlens): browser-only agent trace and token-cost debugger for Claude Code, Codex, and Hermes transcripts.
 
 <p align="center"><a href="https://github.com/Leonxlnx/tastecode"><img src="assets/tile-tastecode.png" width="47%" alt="TasteCode: 12 commits merged upstream."></a><a href="https://yqecea-portfolio.web.app"><img src="assets/tile-webgl.png" width="47%" alt="Portfolio: WebGL and Three.js."></a></p>
 
-<p align="center"><a href="https://yqecea-portfolio.web.app">portfolio</a> &nbsp;·&nbsp; <a href="mailto:yqecea@gmail.com">email</a></p>
+<p align="center"><a href="https://yqecea.github.io">hub</a> &nbsp;·&nbsp; <a href="https://yqecea-portfolio.web.app">portfolio</a> &nbsp;·&nbsp; <a href="mailto:yqecea@gmail.com">email</a></p>
