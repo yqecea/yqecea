@@ -13,7 +13,6 @@
 ## Public work
 
 - [`Leonxlnx/tastecode`](https://github.com/Leonxlnx/tastecode): 12 commits merged into upstream main, including PR [#1211](https://github.com/Leonxlnx/tastecode/pull/1211), [#1171](https://github.com/Leonxlnx/tastecode/pull/1171), and a UI error-visibility fix.
-- [`mastra-ai/mastra`](https://github.com/mastra-ai/mastra): merged upstream bugfix [PR #31167](https://github.com/mastra-ai/mastra/pull/31167) in the evals scorer (whitespace-aware Dice similarity) with a 45,311-character regression test.
 - [`gem-swarm`](https://github.com/yqecea/gem-swarm): multi-agent orchestration extension for Gemini CLI. 20 specialist agents, native parallel dispatch.
 - [`vertex-design-system`](https://github.com/yqecea/vertex-design-system): industrial design system on Geist tokens. 69 components, zero-dependency CSS build.
 - [`repo-10x`](https://github.com/yqecea/repo-10x): planning-first agent skill for deep repository transformation.
